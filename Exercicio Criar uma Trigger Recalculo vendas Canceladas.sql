@@ -6,7 +6,7 @@
 
 
 DELIMITER //
-CREATE TRIGGER autualizar_vendas_canceladas
+CREATE TRIGGER atualizar_vendas_canceladas
 AFTER UPDATE
 ON itens_vendas FOR EACH ROW
 BEGIN
