@@ -1,5 +1,5 @@
-CREATE DATABASE empreteira01;
-USE empreteira01;
+CREATE DATABASE empreteira01; # Criando  o banco de dados
+USE empreteira01; # usado o banco de dados
 SHOW TABLES;
 
 # Criando tabela pessoa
